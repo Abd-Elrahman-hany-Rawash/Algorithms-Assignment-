@@ -1,0 +1,4 @@
+The Ackermann function have base don't computing easily because any value in this function is growing rapidly even for small inputs and it's NP-HARD and it's growing exponential way, and it have 3 cases recursions that's meannig that it take much time when computing it and also waste memory by these recursion cases because 
+it's take 2 numbers such m,n, then it's do it's calculations by set of conditions that it's difficult from side of memory and time , and when starting with (m=4 and n=1) and above of this base the difficulty begin appearing.
+
+this words with evidence that in point 2 in this assignment when put inputs to calculate Ackermann {(4,1), (4,2), (5,1), and so on...) we notice that it's doing the calculation and produce the result correctlt, but also take huge time that will reach 30 seconds and it's bad complexity in any algorithm whatever which data structure is used.
